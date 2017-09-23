@@ -1,1 +1,1 @@
-Generates random ideas for games genre.
+Generates ideas for games by mixing random genres.
