@@ -221,5 +221,8 @@ z = random.randint(0, len(game_genres)-1)
  
 while z == x:   
     z = random.randint(0, len(game_genres)-1)
+      
+while y == z:   
+    y = random.randint(0, len(game_genres)-1)
  
 print(game_genres[y], steam_tags[x], steam_tags[z])
